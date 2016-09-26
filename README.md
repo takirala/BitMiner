@@ -2,9 +2,12 @@
 
 How to run ? 
 
-after navigating to the folder containing Project1.scala and build.sbt, enter sbt interactive shell mode and do a compile. Then : 
-for Master mode : > run 3 
-for Client mode : > run 127.0.0.1
+After navigating to the folder containing Project1.scala and build.sbt,
+* Enter sbt interactive shell mode and do a compile. Then :
+
+    * for Master mode : > run 3 
+    * for Client mode : > run 127.0.0.1
+
 where 3 is the number of leading zeroes for the resulting bit coin and 127.0.0.1 is the server ip address.
 
 
